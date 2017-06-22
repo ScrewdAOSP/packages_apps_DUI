@@ -18,7 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
   <string name="label_action_no_action">Aucune action</string>
-  <string name="label_action_settings_panel">Paramètres</string>
   <string name="label_action_notification_panel">Panneau de notification</string>
   <string name="label_action_screenshot">Capture d’écran</string>
   <string name="label_action_region_screenshot">Capture d’écran partielle</string>
@@ -27,7 +26,6 @@
   <string name="label_action_screen_off">Mise en veille</string>
   <string name="label_action_force_close_app">Forcer l\'arrêt de l\'application</string>
   <string name="label_action_search_assistant">Assistant de recherche</string>
-  <string name="label_action_google_now_on_tap">Google Now On Tap</string>
   <string name="label_action_voice_search">Recherche vocale</string>
   <string name="label_action_in_app_search">Recherche dans l\'application</string>
   <string name="label_action_flashlight">Lampe torche</string>
@@ -40,7 +38,6 @@
   <string name="label_action_menu">Menu</string>
   <string name="label_action_back">Retour</string>
   <string name="label_action_home">Accueil</string>
-  <string name="label_action_ime_switcher">Sélecteur de clavier</string>
   <string name="label_action_stop_screenpinning">Annuler l\'épinglage de l\'écran</string>
   <string name="label_action_ime_down">Curseur bas</string>
   <string name="label_action_ime_left">Curseur gauche</string>
@@ -67,6 +64,5 @@
   <string name="smartbar_editor_toast_starting">Démarrage du menu d\'édition de SmartBar</string>
   <string name="smartbar_editor_toast_stopping">Arrêt du menu d\'édition de SmartBar</string>
   <string name="smartbar_editor_toast_unavailable">Menu d\'édition de SmartBar non disponible</string>
-  <string name="edit_mode">Mode d\'édition</string>
   <!-- App killed message -->
 </resources>
