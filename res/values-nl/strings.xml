@@ -47,6 +47,8 @@
   <string name="label_action_clear_notifications">Melding wissen</string>
   <string name="label_action_editing_smartbar">Smartbar editor</string>
   <string name="label_action_split_screen">Split-screen</string>
+  <string name="label_action_one_handed_mode_left">Een hand modus (linkerkant)</string>
+  <string name="label_action_one_handed_mode_right">Een hand modus (rechterkant)</string>
   <!-- Smartbar -->
   <string name="label_smartbar_actions">Acties</string>
   <string name="label_smartbar_icon">Icoon</string>
